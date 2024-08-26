@@ -1,0 +1,28 @@
+{
+  "MarketplaceExtensionModule": {
+    "blades": {
+      "hello-world": {
+        "title": "Hello world blade"
+      }
+    }
+  },
+  "permissions": {
+    "MarketplaceExtensionModule:access": "Open MarketplaceExtensionModule menu",
+    "MarketplaceExtensionModule:create": "Create MarketplaceExtensionModule related data",
+    "MarketplaceExtensionModule:read": "View MarketplaceExtensionModule related data",
+    "MarketplaceExtensionModule:update": "Update MarketplaceExtensionModule related data",
+    "MarketplaceExtensionModule:delete": "Delete MarketplaceExtensionModule related data"
+  },
+  "settings": {
+    "MarketplaceExtensionModule": {
+      "MarketplaceExtensionModuleEnabled": {
+        "title": "MarketplaceExtensionModule Enabled",
+        "description": "MarketplaceExtensionModule Enabled setting"
+      },
+      "MarketplaceExtensionModulePassword": {
+        "title": "MarketplaceExtensionModule Password",
+        "description": "MarketplaceExtensionModule Password setting"
+      }
+    }
+  }
+}
