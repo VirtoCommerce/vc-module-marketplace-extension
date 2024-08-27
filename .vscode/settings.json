@@ -1,0 +1,7 @@
+{
+  "i18n-ally.localesPaths": [
+    "src/VirtoCommerce.MarketplaceExtensionModule.Web/vendor-portal/src/locales",
+    "src/VirtoCommerce.MarketplaceExtensionModule.Web/vendor-portal/src/modules/extension-example/locales",
+    "src/VirtoCommerce.MarketplaceExtensionModule.Web/vendor-portal/src/modules/sample/locales"
+  ]
+}
