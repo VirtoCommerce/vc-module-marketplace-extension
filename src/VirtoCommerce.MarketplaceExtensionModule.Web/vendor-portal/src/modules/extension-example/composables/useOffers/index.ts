@@ -33,8 +33,6 @@ export const useOffers = (
     openDetailsBlade,
   });
 
-  console.log(scope);
-
   return {
     load,
     items,
